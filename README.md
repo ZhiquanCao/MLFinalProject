@@ -1,1 +1,4 @@
-Haha
+## Machine Learning For Letter Recognition
+
+
+This project provides a hands-on exploration of fundamental machine learning algorithms, specifically logistic regression, Support Vector Machines (SVM), and Convolutional Neural Networks (CNN), all implemented from scratch using numpy. It includes three Jupyter Notebook (ipynb) files, each dedicated to demonstrating the implementation details and inner workings of one of these algorithms. The project emphasizes a deep understanding of each step in the algorithms' construction. Remarkably, our custom-built CNN model achieves a 99.7% accuracy rate in recognizing handwritten letters, using a dataset sourced from Kaggle. While the SVM model, acknowleged by its speed, achieves a slightly lower accuracy of 97%. Logistic Regression, being the most basic model among the three, shows an accuracy of 89%, indicating it might be underfit for the complexity of the task.
